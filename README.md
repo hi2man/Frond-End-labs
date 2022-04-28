@@ -6,11 +6,11 @@
 Лабораторна робота №1 </br>
 https://github.com/hi2man/Frond-End-labs/tree/main/lab1/
 
-Лабораторна робота №2 /br>
+Лабораторна робота №2 </br>
 https://github.com/hi2man/Frond-End-labs/tree/main/lab2/
 
-Лабораторна робота №3 /br>
+Лабораторна робота №3 </br>
 https://github.com/hi2man/Frond-End-labs/tree/main/lab3/
 
-Лабораторна робота №4 /br>
+Лабораторна робота №4 </br>
 https://github.com/hi2man/Frond-End-labs/tree/main/lab4/
