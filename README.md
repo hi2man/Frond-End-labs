@@ -11,6 +11,3 @@ https://github.com/hi2man/Frond-End-labs/tree/main/lab2/
 
 Лабораторна робота №3 </br>
 https://github.com/hi2man/Frond-End-labs/tree/main/lab3/
-
-Лабораторна робота №4 </br>
-https://github.com/hi2man/Frond-End-labs/tree/main/lab4/
